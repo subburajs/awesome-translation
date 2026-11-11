@@ -20,6 +20,7 @@
 - [The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation](https://arxiv.org/abs/1804.09849)
 - [Neural machine translation of rare words with subword units](https://arxiv.org/abs/1508.07909)
 - [BLEU: a method for automatic evaluation of machine translation](https://aclanthology.org/P02-1040.pdf)
+- [Translate-and-Revise: Boosting Large Language Models for Constrained Translation](https://aclanthology.org/2024.ccl-1.82/)
 
 ## Frameworks
 
